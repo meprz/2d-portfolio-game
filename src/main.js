@@ -77,12 +77,11 @@ k.scene("main", async () => {
         }
     }
 
-    // TODO: Fix broken cam scaling.
-    // setCamScale(k);
+    setCamScale(k);
 
-    // k.onResize(() => {
-    //     setCamScale(k);
-    // });
+    k.onResize(() => {
+        setCamScale(k);
+    });
 
     k.onUpdate(() => {
         k.camPos(player.pos.x, player.pos.y + 100);
