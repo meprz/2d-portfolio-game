@@ -39,7 +39,7 @@ export const dialogueData = {
     library: `As a child, I was an avid reader. However, nowadays, finding the time to sit down and read 
               is difficult. Most of this bookshelf is filled with reference guides and handbooks. 
               <a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)" target="_blank">The Three-Body Problem</a> 
-              is one of the few exceptions. Its spine is creased from my having recently re-read it 
+              is one of the few exceptions. Its spine is creased from having recently re-read it 
               in anticipation of the upcoming Netflix adaptation.`,
 
     exit: `To exit my portfolio, simply close the current browser tab or window. Thank you for stopping by!`,
